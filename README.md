@@ -1,4 +1,4 @@
-# emotionwords  for possible input to a text analyzer
+## emotionwords  for possible input to a text analyzer
 #
 fearstrong,fear,frightened,panic,fearful,afraid,frightening,trepidation,terror,foreboding,dread,very scared,frightful
 #
