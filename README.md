@@ -1,6 +1,8 @@
 #
-## emotionwords  for possible input to a text analyzer
-The format is
+## emotionwords  for possible input to a text analyzer to find the emotional context of a phrase
 
-the name of the type of word followed by the word or words
-A comment is the # pound sign
+The format is
+<br>
+The name of the type of word followed by the word or words (up to two now)
+<br>
+a comment is the # pound sign
