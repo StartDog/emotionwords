@@ -1,3 +1,4 @@
+#
 ## emotionwords  for possible input to a text analyzer
 #
 fearstrong,fear,frightened,panic,fearful,afraid,frightening,trepidation,terror,foreboding,dread,very scared,frightful
@@ -28,6 +29,6 @@ disgust,revulsion,repugnance,distaste,nausea,loathing,disgusting,dislike,detest,
 #
 emotwrd,treachery,treacherous,failure,exasperated,exasperation,frustration,frustrated,pain,hurt,tortured
 #
-# not xx - not all fit, e.g., not pleased is mildly unhappy which is sadweak 
+#### not xx - not all fit, e.g., not pleased is mildly unhappy which is sadweak 
 neutral,not unhappy,not angry,not sad,not surprised,not pissed,not depressed,not dejected,not frustrated,not scared,not mad
 #
